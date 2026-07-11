@@ -64,3 +64,7 @@ package-lock.json
 .eslintcache
 *v8.log
 /lib/
+*.js
+*.js.map
+*.ts.map
+*.d.ts

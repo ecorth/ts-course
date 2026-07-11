@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.Customer = void 0;
 class Customer {
     _firstName;
     _lastName;
@@ -20,6 +21,5 @@ class Customer {
         this._lastName = _lastName;
     }
 }
-let someCustomer = new Customer("Hector", "Luna");
-console.log(someCustomer.firstName);
+exports.Customer = Customer;
 //# sourceMappingURL=Customer.js.map
