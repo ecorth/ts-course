@@ -102,7 +102,7 @@ export class Circle extends Shape{
 
 ### Interfaces
 1. Define an interface with a method contract.
-2. Classes implemente the interface accordingly.
+2. Classes implement the interface accordingly.
 3. A class can implement a multiple interfaces.
 
 ```ts
